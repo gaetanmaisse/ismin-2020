@@ -1,17 +1,39 @@
-# Web Development - ISMIN 2020
+# ISMIN 2020
 
 
-Monorepo with all source code for the TPs of the Web Development course.
 
 ![](./logo.png)
 
-The latter is followed by students of Mines St Etienne, ISMIN - M2 Computer Science.      
+Homepage with links to all refs (slides and source code for the TPs) of Web Development and Android Development courses.
+
+These courses are followed by students of Mines St Etienne, ISMIN - M2 Computer Science.      
+
+# Web Development 
+
+## Slides
+
+## TPs
+
+### TP1: 📚 Introduction to TypeScript
+
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-web-2020-tp1).
+
+### TP2: 🐈 Introduction to NestJS
+
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-web-2020-tp2).
+
+### TP3: 🍃 NestJS - MongoDB storage
+
+WIP 
+
+### TP4: 🚀 Deployment in the cloud
+
+WIP
 
 
-# TP1: Introduction to TypeScript
 
-See dedicated [readme](./tp1/README.md).
+# Android Development 
 
-# TP2: Introduction to NestJS
+## Slides
 
-See dedicated [readme](./tp2/README.md).
+## TPs
