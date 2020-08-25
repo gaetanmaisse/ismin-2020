@@ -12,6 +12,8 @@ These courses are followed by students of Mines St Etienne, ISMIN - M2 Computer 
 
 ## Slides
 
+The link will be added when the course has started.
+
 ## TPs
 
 ### TP1: 📚 Introduction to TypeScript
@@ -24,11 +26,11 @@ See dedicated [repo](https://github.com/gaetanmaisse/ismin-web-2020-tp2).
 
 ### TP3: 🍃 NestJS - MongoDB storage
 
-WIP 
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-web-2020-tp3).
 
-### TP4: 🚀 Deployment in the cloud
+### TP4: 🚀 Deployment in the Cloud
 
-WIP
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-web-2020-tp4).
 
 
 
@@ -36,4 +38,8 @@ WIP
 
 ## Slides
 
+The link will be added when the course has started.
+
 ## TPs
+
+WIP
