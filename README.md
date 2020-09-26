@@ -43,7 +43,7 @@ The link will be added when the course has started.
 ## TPs
 
 
-### TP1: 📚 Introduction to TypeScript
+### TP1: 📚 Introduction to Kotlin
 
 See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp1).
 
