@@ -42,4 +42,17 @@ The link will be added when the course has started.
 
 ## TPs
 
-WIP
+
+### TP1: 📚 Introduction to TypeScript
+
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp1).
+
+### TP2: 🖼 Android Basics: Activity + Layout System
+
+
+### TP3: 
+
+
+### TP4: 
+
+
