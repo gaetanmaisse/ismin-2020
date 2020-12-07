@@ -54,13 +54,17 @@ See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp1).
 
 See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp2).
 
-### TP3: 
+### TP3: ♻️ RecyclerView
 
-WIP
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp3).
 
-### TP4: 
+### TP4: 🧩 Fragments
 
-WIP
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp4).
+
+### TP5: 🕸 HTTP Requests
+
+See dedicated [repo](https://github.com/gaetanmaisse/ismin-android-2020-tp5).
 
 # Project 
 
